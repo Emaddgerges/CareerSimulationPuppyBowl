@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  div{
+    background-color: rgb(99, 12, 91);
+    border: 20px;
+    color: aliceblue;
+    text-align: center;
+  
+  }
+  
+  .delete-button{
+    background-color: chocolate;
+  color: azure;
+  width: 180px;
+  height: 40px;
+  font-size: 15px;
+  margin: 5px;
+  
+  margin: Sem;
+  border: 2px solid;
+  border-radius: 20px;
+  
+  }
+  .details-button{
+  
+    background-color: rgb(111, 20, 14);
+    color: azure;
+    width: 130px;
+    height: 40px;
+    font-size: 15px;
+    margin: 5px;
+    
+    margin: Sem;
+    border: 2px solid;
+    border-radius: 20px;
+  
+  
+  }
+  .h2{
+    color: cornsilk;
+  }
+  .updatedAt{
+    color: azure;
+  }
+  .form{
+    background-color: rgb(181, 58, 44);
+    color: rgb(222, 222, 218);
+    margin: Sem;
+    border: 2px solid;
+    border-radius: 6px;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+  .submit{
+    background-color: rgb(111, 20, 14);
+    color: azure;
+    width: 15%;
+    height: 20px;
+    font-size: 22%;
+    margin: 5px;
+    
+    margin: Sem;
+    border: 2px solid;
+    border-radius: 20px;
+  
+  }
+  .close-button{
+    background-color: rgb(111, 20, 14);
+    color: azure;
+    width: 130px;
+    height: 40px;
+    font-size: 15px;
+    margin: 5px;
+    
+    margin: Sem;
+    border: 2px solid;
+    border-radius: 20px;
+  }
